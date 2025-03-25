@@ -1,12 +1,16 @@
-## Hi there 👋
+# 👋 Hallo, Ik ben Yabetse Solomon!
 
 ## 🌍 Talen die ik spreek
 - 💬 Nederlands (Vloeiend)
 - 💬 Engels (Vloeiend)
 - 💬 Frans (Gemiddeld)
 
-## 💻 Programmeertalen & Technische Vaardigheden
-- 🚀 HTML, CSS, JavaScript (Full-Stack Development)
-- 🚀 Python, Java (Backend Development)
-- 🚀 React, Node.js (Frontend & Backend Frameworks)
+## 💻 Programmeertalen & Vaardigheden
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Backend Development:** Node.js, Express.js
+- **Templating Engines:** EJS, twig
+- **Content Management System:** Craft CMS
+- **Frameworks & Tools:** Express.js, Node.js
 
+## 🌱 Momenteel aan het leren
+Ik verdiep me verder in **Full-Stack Development** en werk aan interessante projecten die mijn programmeervaardigheden versterken. 🚀
